@@ -1,0 +1,20 @@
+{
+	"name": " ChaiMinChun/google-analytic-report-application",
+	"version": "1.0.0",
+	"description": "Use Google reporting v4 API to access report data with email sending feature",
+	"keywords": ["google", "analytic", "reporting", "php"],
+	"type": "project",
+	"require": {
+		"jenssegers/blade": "^1.1",
+		"txthinking/mailer": "^2.0",
+		"google/apiclient": "2.0",
+		"nesbot/carbon": "^1.27"
+	},
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Chai Min Chun",
+			"email": "chaimc92@gmail.com"
+		}
+	]
+}
