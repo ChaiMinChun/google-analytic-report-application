@@ -1,3 +1,5 @@
+[![Latest Stable Version](https://poser.pugx.org/chaiminchun/google-analytic-report-application/v/stable)](https://packagist.org/packages/chaiminchun/google-analytic-report-application)
+[![License](https://poser.pugx.org/chaiminchun/google-analytic-report-application/license)](https://packagist.org/packages/chaiminchun/google-analytic-report-application)
 # Google analytic reporting  v4 API email application
 
 A custom email reporting service based on Google analytic v4 API
