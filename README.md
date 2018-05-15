@@ -3,7 +3,7 @@
 A custom email reporting service based on Google analytic v4 API
 
 ## Install
-<code> composer require </code>
+<code> composer require chaiminchun/google-analytic-report-application </code>
 
 ## Feature
 1. Monthly performance comparision work like google email report
