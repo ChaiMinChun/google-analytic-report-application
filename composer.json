@@ -1,5 +1,5 @@
 {
-	"name": " ChaiMinChun/google-analytic-report-application",
+	"name": " chaiminchun/google-analytic-report-application",
 	"version": "1.0.0",
 	"description": "Use Google reporting v4 API to access report data with email sending feature",
 	"keywords": ["google", "analytic", "reporting", "php"],
