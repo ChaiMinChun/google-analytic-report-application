@@ -13,6 +13,7 @@ A custom email reporting service based on Google analytic v4 API
     ![image](./img/googleanalyticemail.png?raw=true "Title")
 ## Get started
 1. Composer install.
+2. Move views and cache folder, config.php, and Analyic.php to root folder
 2. Setup the email and google analytic account.
 3. Fill in necessary setting in config.php 
 4. Run <code> php Analytic.php </code>
